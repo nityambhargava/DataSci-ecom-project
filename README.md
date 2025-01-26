@@ -1,5 +1,7 @@
 # **Customer Clustering and Insights Analysis**
 
+## NOTE: The inferences and analysis made by through the visualizations is located in ./reports/Analysis-data-sci-project
+
 ## **Project Overview**  
 This project focuses on analyzing customer similarity data, conducting exploratory data analysis (EDA), and clustering customers using the K-means algorithm. The primary objective is to derive actionable business insights from customer segmentation and regional patterns to improve business strategies.  
 
