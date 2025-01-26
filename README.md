@@ -114,12 +114,9 @@ For questions, suggestions, or feedback, please feel free to open an issue or su
 ---  
 
 ### **Sample Visualizations**  
-1. Percentage of customers by region 
-![image](https://github.com/user-attachments/assets/50ad5e6f-64be-4a19-9647-fd0702be2568)
+1. Percentage of customers by region: ![image](https://github.com/user-attachments/assets/50ad5e6f-64be-4a19-9647-fd0702be2568)
 
-2. Correlation Matrix
-![image](https://github.com/user-attachments/assets/dfcb624e-8c2f-4d78-b89d-9b38bb56b4d5)
+2. Correlation Matrix:  ![image](https://github.com/user-attachments/assets/dfcb624e-8c2f-4d78-b89d-9b38bb56b4d5)
 
-3. Clustering graphs
-![image](https://github.com/user-attachments/assets/5004ecf9-c2f2-4bc5-a3a9-569f2b1cdb28)
+3. Clustering graphs:  ![image](https://github.com/user-attachments/assets/5004ecf9-c2f2-4bc5-a3a9-569f2b1cdb28)
 ---
