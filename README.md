@@ -114,21 +114,12 @@ For questions, suggestions, or feedback, please feel free to open an issue or su
 ---  
 
 ### **Sample Visualizations**  
-1. Percentage of customers by region and count
+1. Percentage of customers by region 
 ![image](https://github.com/user-attachments/assets/50ad5e6f-64be-4a19-9647-fd0702be2568)
-![image](https://github.com/user-attachments/assets/8d6a00f8-12a4-4504-a5e6-c70dfff20079)
 
-2. Data in the form of bar chart representation created by merging customers.csv with products.csv
-![image](https://github.com/user-attachments/assets/9d0ea9aa-b939-4e47-8e5d-4250d989a4e1)
-![image](https://github.com/user-attachments/assets/72ac6e7c-fc37-4df9-be4e-86738d56032c)
-![image](https://github.com/user-attachments/assets/b16457f1-cb45-44da-8e70-58f65ba45a0d)
-
-4. Correlation Matrix
+2. Correlation Matrix
 ![image](https://github.com/user-attachments/assets/dfcb624e-8c2f-4d78-b89d-9b38bb56b4d5)
 
-5. Elbow Method for Optimal Clusters
-![image](https://github.com/user-attachments/assets/e2a2620f-a04a-4fb5-b1e8-5102d626c4a6)
-
-6. Clustering graphs
+3. Clustering graphs
 ![image](https://github.com/user-attachments/assets/5004ecf9-c2f2-4bc5-a3a9-569f2b1cdb28)
 ---
